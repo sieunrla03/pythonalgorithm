@@ -1,4 +1,3 @@
-
 file_name = "prob1-1.txt"
 
 with open(file_name, "w") as file:
